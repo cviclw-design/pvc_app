@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment / secrets
+.env
+
+# VS Code
+.vscode/
+.vsc/
+
+# Downloaded / generated documents
+downloads/
+*.pdf
+*.xlsx
+*.xls
+*.csv
+
+# Temporary files
+temp/
+tmp/
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Logs
+*.log
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+# Old Git history backup
+.git_backup/
+
+.git_backup/
